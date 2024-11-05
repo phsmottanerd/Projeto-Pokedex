@@ -1,16 +1,18 @@
 # POKEDEX
 
-![Pokédex Banner](https://example.com/pokedex-banner.jpg) <!-- Substitua pelo link da sua imagem -->
+![Pokédex Banner](https://i.imgur.com/7UrMZXE.jpg)  <!-- Substitua pela URL da sua imagem de banner -->
 
 ## Descrição do Projeto
 
-O **POKEDEX** é uma aplicação web que permite aos usuários explorar o mundo dos Pokémon de maneira interativa. Utilizando HTML, CSS e JavaScript, este projeto é uma demonstração prática de manipulação do DOM e de como integrar uma API externa para obter dados em tempo real.
+O **POKEDEX** é uma aplicação web interativa que permite aos usuários explorar o fascinante mundo dos Pokémon. Com uma interface amigável, você pode pesquisar e visualizar detalhes sobre uma ampla variedade de Pokémon, utilizando manipulação do DOM e uma API externa para obter dados em tempo real.
+
+![Interface do Pokedex](https://i.imgur.com/YZrQUBp.jpg)  <!-- Substitua pela URL de uma imagem da interface -->
 
 ## Funcionalidades
 
-- **Busca de Pokémon**: Os usuários podem buscar informações sobre seus Pokémon favoritos.
-- **Exibição de Detalhes**: Visualize detalhes, incluindo tipo, habilidades e estatísticas de cada Pokémon.
-- **Interatividade**: O aplicativo utiliza manipulação do DOM para atualizar a interface dinamicamente com os dados recebidos da API.
+- **Busca de Pokémon**: Procure informações detalhadas sobre os Pokémon que você mais ama.
+- **Exibição de Detalhes**: Veja informações como tipo, habilidades e estatísticas de cada Pokémon.
+- **Interatividade Completa**: Aplique manipulação do DOM para atualizar a interface de forma dinâmica com os dados da API.
 
 ## Tecnologias Utilizadas
 
